@@ -1,0 +1,6 @@
+﻿  Main.cpp
+E:\windows课程设计\VSPRO\Back\Main.cpp(375,13): warning C4101: “tm”: 未引用的局部变量
+E:\windows课程设计\VSPRO\Back\Main.cpp(374,8): warning C4101: “hFont”: 未引用的局部变量
+E:\windows课程设计\VSPRO\Back\Main.cpp(377,7): warning C4101: “size”: 未引用的局部变量
+E:\windows课程设计\VSPRO\Back\Main.cpp(1161): warning C4715: “WndProc”: 不是所有的控件路径都返回值
+  New.vcxproj -> E:\windows课程设计\VSPRO\Back\Release\New.exe
